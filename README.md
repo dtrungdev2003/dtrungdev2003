@@ -1,7 +1,29 @@
-❤️ &emsp; Love to writing code and learning new features<br/>
-📧 &emsp; Reach me anytime: <ins>dtrungdev2003@gmail.com</ins> <br/>
-💬 &emsp; Ask me about anything [ <a href='https://github.com/dtrungdev/dtrungdev/issues'>here<a>]
 
+<!-- Intro  -->
+<h1 align="center">
+        <samp>&gt;&gt;&gt; Hey There!, I am
+                <b><a href='https://github.com/dtrungdev'>Duong Dinh Trung</a></b>
+        </samp>
+</h1>
+
+
+<p align="center"> 
+    「 I am on my way to becoming a professional web developer 」
+</p>
+
+<!-- About Section -->
+ 
+ # About me
+ 
+<p>
+<img alt="Night Coding" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" height='320px' width='auto'/>
+
+  <br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ ⚠️ &emsp; Don't smart!!! <br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/>
+ 📧 &emsp; Reach me anytime: <ins>dtrungdev2003@gmail.com</ins> <br/>
+ 💬 &emsp; Ask me about anything [ <a href='https://github.com/dtrungdev/dtrungdev/issues'>here<a>]
  <br/>
   <br/>
    <br/>
@@ -13,7 +35,7 @@
 
 
 
-# Use To Code
+ # Use To Code
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -29,3 +51,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
+
